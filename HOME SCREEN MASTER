@@ -3,14 +3,8 @@
 	<head>
 		<title>What will show up on the top of your browser tab</title>
 
-		
-
-		<!--
-		To link a css sheet!
-
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 
-		-->
 	</head>
 
 	<body>
